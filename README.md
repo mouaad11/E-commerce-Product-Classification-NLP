@@ -1,6 +1,6 @@
 # E-commerce Text Classification Project
 
-![GitHub](https://img.shields.io/github/license/yourusername/ecommerce-text-classification)
+![GitHub](https://img.shields.io/github/license/mouaad11/E-commerce-Product-Classification-NLP)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-yellow)
